@@ -25,7 +25,7 @@
 
 # Introduccion a la programación de videojuegos - desde Cero!
 Mini curso de introduccion a la programacion de videojuegos, hecho por la comunidad de desarrolladores de videojuegos de Bahia Blanca </br>
-Respondemos preguntas en Discord **todo el día**! 👇 </br>
+Respondemos preguntas en Discord **todo el día**! 👇 </br> </br>
 [![alt text][5.3]][5]
 
 ## Qué es?
