@@ -35,5 +35,5 @@ Idealmente se realizan todos los sábados a las 20hs (hora Argentina), por nuest
 En nuestra sección [Wiki](https://github.com/kawzar/introduccion-programacion-vj/wiki) vamos a ir subiendo los temarios de las clases, con sus respectivos links a los streams y los ejercicios propuestos, además de información extra que puede ser de utilidad tal como documentación.
 
 ## Sumate a nuestras redes sociales!
-[!Facebook][2.1]][2] - [!Twitter][1.1]][1] - [!Instagram][3.1]][3] - [!YouTube][4.1]][4]
+[![alt text][2.1]][2] - [![alt text][1.1]][1] - [![alt text][3.1]][3] - [![alt text][4.1]][4]
 
