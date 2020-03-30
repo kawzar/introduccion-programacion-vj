@@ -12,6 +12,8 @@
 [4.2]: https://i.imgur.com/o4cMEYQ.png (YouTube 16px -  Icon made by https://www.flaticon.com/authors/freepik from www.flaticon.com)
 [5.2]: https://i.imgur.com/mWXlyZB.png (Discord 16px - Icon made by https://www.flaticon.com/authors/pixel-perfect from www.flaticon.com)
 
+[5.3]: https://i.imgur.com/hiRy1ml.png?1 (Discord 256px - Icon made by https://www.flaticon.com/authors/pixel-perfect from www.flaticon.com)
+
 
 <!-- links to your social media accounts -->
 
@@ -22,7 +24,9 @@
 [5]: https://discord.gg/rqhCbVq
 
 # Introduccion a la programación de videojuegos - desde Cero!
-Mini curso de introduccion a la programacion de videojuegos, hecho por la comunidad de desarrolladores de videojuegos de Bahia Blanca
+Mini curso de introduccion a la programacion de videojuegos, hecho por la comunidad de desarrolladores de videojuegos de Bahia Blanca </br>
+Respondemos preguntas en Discord **todo el día**! 👇 </br>
+[![alt text][5.3]][5]
 
 ## Qué es?
 Es una serie de streams que organizamos desde la Comunidad de Desarrolladores de Videojuegos de Bahía Blanca, para aquellas personas que están interesadas en aprender a programar. No se necesitan conocimientos previos, y están orientados al desarrollo de videojuegos.
